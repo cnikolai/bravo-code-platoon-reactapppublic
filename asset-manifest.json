@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bravo-code-platoon-reactapppublic/static/css/main.a617e044.chunk.css",
+    "main.js": "/bravo-code-platoon-reactapppublic/static/js/main.e5366cf5.chunk.js",
+    "main.js.map": "/bravo-code-platoon-reactapppublic/static/js/main.e5366cf5.chunk.js.map",
+    "runtime-main.js": "/bravo-code-platoon-reactapppublic/static/js/runtime-main.da8d07c6.js",
+    "runtime-main.js.map": "/bravo-code-platoon-reactapppublic/static/js/runtime-main.da8d07c6.js.map",
+    "static/js/2.37f8bf11.chunk.js": "/bravo-code-platoon-reactapppublic/static/js/2.37f8bf11.chunk.js",
+    "static/js/2.37f8bf11.chunk.js.map": "/bravo-code-platoon-reactapppublic/static/js/2.37f8bf11.chunk.js.map",
+    "static/js/3.3737faed.chunk.js": "/bravo-code-platoon-reactapppublic/static/js/3.3737faed.chunk.js",
+    "static/js/3.3737faed.chunk.js.map": "/bravo-code-platoon-reactapppublic/static/js/3.3737faed.chunk.js.map",
+    "index.html": "/bravo-code-platoon-reactapppublic/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/bravo-code-platoon-reactapppublic/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.37f8bf11.chunk.js.LICENSE.txt": "/bravo-code-platoon-reactapppublic/static/js/2.37f8bf11.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da8d07c6.js",
+    "static/js/2.37f8bf11.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.e5366cf5.chunk.js"
+  ]
+}
