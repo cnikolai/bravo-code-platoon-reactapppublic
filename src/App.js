@@ -9,7 +9,7 @@ class App extends Component {
   }
 
   componentDidMount = async () => {
-    let response = await fetch("http://127.0.0.1:8000/api/blogposts/")
+    let response = await fetch("https://bcp-django-react.herokuapp.com/api/blogposts/")
     let JSONresp = await response.json()
     console.log(JSONresp)
     this.setState({
